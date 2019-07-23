@@ -13,7 +13,7 @@ $ sudo apt-get install build-essential curl git python libglib2.0-dev php7.2-dev
 ## Installation
 ```
 $ cd /opt
-$ git clone https://github.com/davidecesarano/phpv8js-compiled.git
+$ git clone https://github.com/davidecesarano/phpv8js-compiled.git .
 ```
 
 ## Compile php-v8js itself
